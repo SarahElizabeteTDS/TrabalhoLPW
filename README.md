@@ -1,18 +1,18 @@
-Projeto - Jogo de Adivinhação
-Este é o projeto desenvolvido para obtenção de conceito no primeiro bimestre da disciplina de Linguagem de Programação para Web, do 3º ano do curso Técnico em Desenvolvimento de Sistemas (TDS), sob orientação do Professor Daniel.
+# Projeto - Jogo de Adivinhação
 
-Descrição
-O projeto consiste em um jogo de adivinhação. O objetivo do jogador é adivinhar corretamente entre duas categorias de personagens:
+Este é o projeto desenvolvido para obtenção de conceito no **primeiro bimestre** da disciplina de **Linguagem de Programação para Web**, do **3º ano** do curso **Técnico em Desenvolvimento de Sistemas (TDS)**, sob orientação do **Professor Daniel**.
 
-Pokémon
+## Descrição
 
-Aliens do desenho animado Ben 10
+O projeto consiste em um **jogo de adivinhação**. O objetivo do jogador é adivinhar corretamente entre duas categorias de personagens:
 
-A resposta (palpite) deve ser informada diretamente na URL.
+- **Pokémon**
+- **Aliens** do desenho animado **Ben 10**
 
-Tecnologias Utilizadas
-HTML
+A resposta (palpite) deve ser informada diretamente **na URL**.
 
-CSS
+## Tecnologias Utilizadas
 
-PHP
+- **HTML**
+- **CSS**
+- **PHP**
